@@ -5,7 +5,6 @@
  * distribution of this software for license terms.
  */
 
-import aux.*;
 import java.awt.*;
 
 abstract public class YachtMach extends Panel implements YachtCategories {

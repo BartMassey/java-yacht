@@ -17,7 +17,6 @@
 // All Rights Reserved
 //
 
-import aux.*;
 import java.awt.*;
 import java.net.*;
 import java.applet.*;
